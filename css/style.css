@@ -1627,6 +1627,11 @@ body.students ul li.home-blog-post{
 
 }
 
+/* .excerpt-footer {
+    height: 100px;
+    overflow: scroll;
+} */
+
 .home-blog-post .blog-text {
     font-size: 14px;
     line-height: 26px;
