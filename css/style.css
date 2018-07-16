@@ -1619,6 +1619,11 @@ body.students ul li.home-blog-post{
     margin-bottom: 0;
     padding: 0;
 }
+.excerpt    {
+    height: 175px;
+    overflow: scroll;
+
+}
 
 .home-blog-post .blog-text {
     font-size: 14px;
