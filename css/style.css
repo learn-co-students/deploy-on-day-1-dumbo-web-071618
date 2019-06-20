@@ -1240,7 +1240,8 @@ h3#comments {
 }
 
 .pro-title h4 {
-    display: block float:left;
+    display: block ;
+    float:left;
     width: 295px;
     background: url(images/design-repeat.gif) right center repeat-x;
 }
@@ -1257,7 +1258,8 @@ h3#comments {
     font-size: 14px;
     color: #FFF;
     font-weight: bold;
-    display: block float:left;
+    display: block;
+    float:left;
     width: 295px;
     background: url(images/design-repeat.gif) right center repeat-x;
 }
@@ -1619,6 +1621,16 @@ body.students ul li.home-blog-post{
     margin-bottom: 0;
     padding: 0;
 }
+.excerpt    {
+    height: 150px;
+    overflow: scroll;
+
+}
+
+/* .excerpt-footer {
+    height: 100px;
+    overflow: scroll;
+} */
 
 .home-blog-post .blog-text {
     font-size: 14px;
